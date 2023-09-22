@@ -25,6 +25,8 @@ Technical Skills:
 * VM
 * MS SQL
 * mySQL
+
+### :fire: My Stats :
 ---
 
 
