@@ -9,12 +9,13 @@
 </div>
 </div>
 
-
-
-
-
 ### Hi there 👋
+
+
 ---
+
+
+### About Me:
 - 👋 Hi! I am @Yajme
 - 🔭 I'm interested in Programming and IoT
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/Yajme/Inventory-Management-System)
@@ -23,8 +24,8 @@
 - 💬 Ask me about Latest Tech
 - 📫 How to reach me: dev.emjayrongavilla@gmail.com
 
-## Technology and Tools
----
+### Technology and Tools:
+
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
