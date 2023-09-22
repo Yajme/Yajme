@@ -9,7 +9,10 @@
 </div>
 </div>
 
-### Hi there 👋
+<h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 
 ---
@@ -23,6 +26,8 @@
 - 👯 I’m looking to collaborate on Future Projects
 - 💬 Ask me about Latest Tech
 - 📫 How to reach me: dev.emjayrongavilla@gmail.com
+
+---
 
 ### Technology and Tools:
 
@@ -43,9 +48,10 @@
   
 </div>
 
+---
 
 ### :fire: My Stats :
----
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yajme)](https://git.io/streak-stats)
