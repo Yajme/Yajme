@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/emjay-rongavilla-19149a276/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=Yajme&style=flat-square&color=blue" alt=""/>
+
 </div>
 
   Hi there <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30px"/>
