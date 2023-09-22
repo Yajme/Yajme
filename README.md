@@ -14,3 +14,5 @@ Technical Skills:
 * Python
 * Git
 * VM
+* MS SQL
+* mySQL
