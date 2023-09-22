@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-Techologies:
+Technologies:
 * C++
 * C#
 * Visual Basic
