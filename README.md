@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-Technologies:
+Technical Skills:
 * C++
 * C#
 * Visual Basic
