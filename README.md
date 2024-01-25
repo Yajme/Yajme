@@ -51,6 +51,7 @@
 ### :fire: My Stats :
 
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Yajme&theme=light&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yajme)](https://git.io/streak-stats)
 
