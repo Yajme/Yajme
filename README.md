@@ -53,6 +53,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Yajme&theme=light&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yajme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yajme&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yajme)](https://github.com/anuraghazra/github-readme-stats)
