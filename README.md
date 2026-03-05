@@ -99,12 +99,26 @@
 ---
 
 # 📊 GitHub Stats
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yajme&theme=default) 
 
-![](https://github-readme-stats.vercel.app/api?username=emjayrongavilla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=emjayrongavilla&theme=dark&hide_border=false)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emjayrongavilla&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yajme&theme=default&utcOffset=8)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yajme&theme=default) 
+  
+</div>
+
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yajme&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yajme&theme=default) 
+  
+</div>
+ 
+
 
 ---
 
@@ -114,3 +128,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yajme"/>
 </p
+
+<!-- ToDo: add stats https://github.com/haidang666/awesome-tool-for-readme-profile?tab=readme-ov-file#github-stats-visualization---jstrieb -->
